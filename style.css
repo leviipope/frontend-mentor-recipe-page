@@ -1,7 +1,6 @@
 .attribution { 
     font-size: 11px; 
     text-align: center; 
-    margin-bottom: 50px;
 }
 .attribution a { color: hsl(228, 45%, 44%); }
 body{
@@ -35,7 +34,6 @@ hr{
     border-radius: 20px;
     display: flex;
     flex-direction: column;
-    width: 720px;
 }
 .omlette{
     padding: 35px;
