@@ -3,6 +3,11 @@
     text-align: center; 
 }
 .attribution a { color: hsl(228, 45%, 44%); }
+@media (max-width: 700px){
+    .attribution{
+        display: none;
+    }
+}
 body{
     display: flex;
     flex-direction: column;
