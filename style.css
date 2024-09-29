@@ -1,14 +1,18 @@
-.attribution { font-size: 11px; text-align: center; }
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    margin-bottom: 50px;
+}
 .attribution a { color: hsl(228, 45%, 44%); }
 body{
     display: flex;
+    flex-direction: column;
     min-height: 800px;
     font-family: "Outfit";
     background-color: hsl(30, 54%, 90%);
     justify-content: center;
     align-items: center;
     margin: 0;
-    margin-top: 50px;
     margin-bottom: 50px;
     font-size: 16px;
     font-weight: 400;
